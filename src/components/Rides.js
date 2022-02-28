@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useState } from "react";
 import { Image } from "react-bootstrap";
 import styles from "./Rides.module.css";
