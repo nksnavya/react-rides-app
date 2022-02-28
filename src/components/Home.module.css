@@ -1,0 +1,9 @@
+.userIcon {
+  height: 40px;
+}
+.filterButton {
+  position: absolute;
+  right: 35px;
+  border: none;
+  background: transparent;
+}

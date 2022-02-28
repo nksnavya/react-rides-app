@@ -1,0 +1,19 @@
+.rideList {
+  display: flex;
+  flex-direction: row;
+  background: #171717;
+  padding: 10px;
+}
+.placeName {
+  font-size: 12px;
+  border-radius: 10px;
+  color: white;
+  background: black;
+}
+.placeWrapper {
+  position: absolute;
+  right: 0;
+}
+.infoTextLabel {
+  color: gray;
+}
